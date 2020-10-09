@@ -2,6 +2,7 @@
 This repo contains two hobby project: Monte Carlo simulations for sales commission budget and Random Walk for Apple Stock Prediction (Risk Analysis)
 
 *Monte Carlo Simulation for Sales Commision Distribution*
+
 The Problem is as follows:
 
 - There are a given number of sales representative who have to meet the Target sales, and based on the percentage of the target reached they are alloted a commision rate.
